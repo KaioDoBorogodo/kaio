@@ -1,17 +1,20 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Loja De Roupas</title>
-</head>
-<body style="text-align: center;">
-		<h1> Loja De Roupas</h1>
+    <head>
+	     <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <title>Loja De Roupas</title>
+
+    <body>
+		<h1 style="text-align:center"> Loja De Roupas</h1>
+        <link rel="stylesheet" href="style.css"
+
+        <style>
+        
+        </style>
+    </head>  
 		<p>Sobre a Loja De Roupas</p>
-		<p><em>Ela traz para o mercado o que há de melhor o seu estilo ou visual. Fundada em 2023, a Loja De Roupas já é destaque na cidade e conquista novos clientes a cada dia.</em></p>
+		<p><em>Ela traz para o mercado o que há de melhor o seu estilo ou visual. Fundada em 2023, a Loja De Roupas já é destaque na cidade e conquista novos clientes a cada dia.  Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</em></p>
 
-<p><em>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</em></p>
-
-</body>
+    </body>
 </html>
